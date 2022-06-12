@@ -25,8 +25,27 @@ li a {
   padding: 14px 16px;
   color: white;
   text-decoration: none;
+  text-transform: uppercase;
 }
 li a:hover {
   background-color: #111;
   color: white;
+}
+p {
+  text-align: center;
+}
+.firstParagraph {
+  text-align: center;
+  background-color: rgb(18, 231, 125);
+  text-align: center;
+}
+.firstParagraph1 {
+  text-align: center;
+  background-color: rgb(208, 255, 0);
+  text-align: center;
+}
+.firstParagraph2 {
+  text-align: center;
+  background-color: rgb(160, 37, 6);
+  text-align: center;
 }
