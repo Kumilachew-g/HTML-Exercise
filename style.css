@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  color: aqua;
+  background-color: blanchedalmond;
+}
+ul {
+  background-color: #333;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  /* display: inline; */
+  float: left;
+}
+li a {
+  display: block;
+  width: 60px;
+  text-align: center;
+  padding: 14px 16px;
+  color: white;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+  color: white;
+}
